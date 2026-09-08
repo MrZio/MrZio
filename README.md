@@ -18,7 +18,7 @@
   `C#` `Unity` `Shaders`
 - **[Scalable Rendering Project](https://github.com/MrZio/Scalable-Rendering-Project)** — Implementation and optimization of scalable rendering techniques.  
   `C++` `OpenGL` `GLSL`
-- **[Thesis XR Medical App](https://github.com/MrZio)** — Real-time spatial tracking and interactive XR application tailored for Magic Leap 2.  
+- **[Thesis XR Medical App](https://github.com/MrZio/Magic-Leap-2-XR-Application-/tree/main)** — Real-time spatial tracking and interactive XR application tailored for Magic Leap 2.  
   `Unity` `C#` `OpenXR` `Magic Leap 2`
 
 ---
