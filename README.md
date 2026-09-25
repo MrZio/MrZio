@@ -8,7 +8,7 @@
 ### ✦ About Me
 ✺ Pursuing a Master’s degree focused on **Computer Graphics, Virtual Environments, and Simulation**.  
 ✺ Passionate about modern graphics pipelines, shader programming, and the underlying applied mathematics.  
-✺ Currently tinkering with personal graphics projects and exploring computational geometry, numerical methods, and rendering algorithms.  
+✺ Currently tinkering with personal graphics projects, computational geometry, numerical methods, and mathematical optimization (using tools like **SageMath** and **CPLEX**).  
 ✺ Always keen to dive deeper into low-level engine architecture, GPU computing, and—naturally—playing video games in my spare time.
 
 ---
@@ -33,6 +33,8 @@
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white)
 ![GLSL](https://img.shields.io/badge/GLSL-5586A4?style=flat-square&logo=opengl&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)
+![SageMath](https://img.shields.io/badge/SageMath-0F6F9D?style=flat-square&logo=sagemath&logoColor=white)
+![IBM CPLEX](https://img.shields.io/badge/CPLEX-052FAD?style=flat-square&logo=ibm&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
