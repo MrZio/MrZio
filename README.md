@@ -8,8 +8,8 @@
 ### ✦ About Me
 ✺ Pursuing a Master’s degree focused on **Computer Graphics, Virtual Environments, and Simulation**.  
 ✺ Passionate about modern graphics pipelines, shader programming, and the underlying applied mathematics.  
-✺ Currently tinkering with personal graphics projects, computational geometry, numerical methods, and mathematical optimization (using tools like **SageMath** and **CPLEX**).  
-✺ Always keen to dive deeper into low-level engine architecture, GPU computing, and—naturally—playing video games in my spare time.
+✺ Currently tinkering with personal graphics projects and exploring computational geometry, numerical methods, and rendering algorithms.  
+✺ Always keen to dive deeper into low-level engine architecture, GPU computing, and—naturally—playing video games in my spare time. 
 
 ---
 
